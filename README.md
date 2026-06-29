@@ -74,7 +74,7 @@ API_KEY = "YOUR_API_KEY";
 
 ## Live Demo
 
-https://your-github-pages-link-here
+https://rdean-dev.github.io/weather-app/
 
 ## Author
 
