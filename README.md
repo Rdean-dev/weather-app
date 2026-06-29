@@ -31,11 +31,13 @@ A responsive weather application built with vanilla JavaScript that allows users
 
 ### Welcome Screen
 
-_Add screenshot here_
+<img width="1890" height="911" alt="image" src="https://github.com/user-attachments/assets/e1d1fa71-4cc4-4d80-a685-d4846f4c73a7" />
+
 
 ### Weather View
 
-_Add screenshot here_
+<img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/4b7e712f-40f3-4bf1-bdff-ad3a14dc166f" />
+
 
 ## Installation
 
