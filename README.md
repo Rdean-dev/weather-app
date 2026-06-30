@@ -1,6 +1,6 @@
 # Weather App
 
-A responsive weather application built with vanilla JavaScript that allows users to search for cities around the world and view current weather conditions. The app uses the OpenWeather API to retrieve live weather data and automatically updates the background based on the current weather.
+A responsive weather application built with JavaScript that allows users to search for cities around the world and view current weather conditions. The app uses the OpenWeather API to retrieve live weather data and automatically updates the background based on the current weather.
 
 ## Features
 
